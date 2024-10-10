@@ -9,8 +9,13 @@ This project allows users to upload Excel files and automatically generates limi
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/birkanoruc/excel-analysis.git
-cd your-repository-name
+git clone https://github.com/birkanoruc/brand-analysis.git
+```
+
+and go to project directory:
+
+```bash
+cd brand-analysis
 ```
 
 ### Step 2: Install dependencies
